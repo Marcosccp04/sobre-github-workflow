@@ -45,7 +45,13 @@ Equipe:
     - É esperado que haja conflitos no __merge__; 
     - Resolva os conflitos considerando o código que você criou;
     - Apresente imagens que comprove a operação;
-     ![image](https://user-images.githubusercontent.com/32426980/235179352-b70e5757-d75f-4f1b-86b1-b69a025163bd.png)
+    
+    ![Captura de tela de 2023-04-28 13-03-56](https://user-images.githubusercontent.com/32426980/235209731-242fc5be-07f0-409e-90e6-f9f2c56404c1.png)
+    ![corrigido](https://user-images.githubusercontent.com/32426980/235210183-f9280541-6aaa-4e05-8054-3554f0ab1f71.png)
+    ![conflict](https://user-images.githubusercontent.com/32426980/235210341-010112be-f9a1-47ba-a181-f75741acdf82.png)
+    ![confl](https://user-images.githubusercontent.com/32426980/235210491-c42b5517-6b34-404b-b63c-5473374b824b.png)
+    ![merged](https://user-images.githubusercontent.com/32426980/235210801-ecf08939-f9a8-41c9-b4bf-f3137ce32d35.png)
+    ![image](https://user-images.githubusercontent.com/32426980/235179352-b70e5757-d75f-4f1b-86b1-b69a025163bd.png)
 
 7. Atualize a branch principal no seu computador;
     - Apresente images que comprove a operação
